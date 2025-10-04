@@ -1,5 +1,11 @@
 # Playwright + C# (MSTest) Scaffold
 
+[![Release](https://img.shields.io/github/v/release/lkumarra/playwright-automation-csharp)](https://github.com/lkumarra/playwright-automation-csharp/releases) [![Actions Status](https://github.com/lkumarra/playwright-automation-csharp/actions/workflows/ci.yml/badge.svg)](https://github.com/lkumarra/playwright-automation-csharp/actions) [![Repo](https://img.shields.io/badge/repo-GitHub-blue.svg)](https://github.com/lkumarra/playwright-automation-csharp)
+
+Repository: https://github.com/lkumarra/playwright-automation-csharp.git
+
+Badges above are examples — the Actions badge points at `actions/workflows/ci.yml`. If you add a GitHub Actions workflow, update the workflow filename or the badge URL.
+
 This repository contains a small MSTest-based scaffold that demonstrates using Microsoft.Playwright with C#.
 
 Quick status (run from repository root):
